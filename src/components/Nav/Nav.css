@@ -1,0 +1,10 @@
+/*  src/Nav.css  */
+.navbar {
+    margin-left: 6%;
+    margin-right: 6%;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+   
+    color: #fff;
+  }

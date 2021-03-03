@@ -1,11 +1,12 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
+import './Nav.css';
 
 function Nav() {
   return (
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg  fixed-top navbar-light">
       <NavLink class="navbar-brand" to='/'>
-        Navbar
+        Plant Daddy
       </NavLink>
       <button
         class="navbar-toggler"
@@ -19,7 +20,7 @@ function Nav() {
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
-        <ul class="navbar-nav">
+        <ul class="navbar-nav ">
           <li class="nav-item active">
               <NavLink class="nav-link" to="/">
                 Home <span class="sr-only">(current)</span>
@@ -32,7 +33,7 @@ function Nav() {
                 to="/services"
                 id="navbarDropdownMenuLink"
                 data-toggle="dropdown"
-                aria-haspopup="true"
+                
                 aria-expanded="false"
               >
                 Services

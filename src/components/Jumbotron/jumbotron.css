@@ -9,6 +9,7 @@
     background-repeat: no-repeat;
     background-position: bottom;
     height: 550px;
+    margin:5%;
   }
 .jumbotron > .box {
   background-color: rgba(7, 26, 8, .8);
