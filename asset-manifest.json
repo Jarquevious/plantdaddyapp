@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/plaantdaddyapp/static/css/main.69900326.chunk.css",
+    "main.js": "/plaantdaddyapp/static/js/main.195045cc.chunk.js",
+    "main.js.map": "/plaantdaddyapp/static/js/main.195045cc.chunk.js.map",
+    "runtime-main.js": "/plaantdaddyapp/static/js/runtime-main.9ddef00c.js",
+    "runtime-main.js.map": "/plaantdaddyapp/static/js/runtime-main.9ddef00c.js.map",
+    "static/js/2.2b0d15c1.chunk.js": "/plaantdaddyapp/static/js/2.2b0d15c1.chunk.js",
+    "static/js/2.2b0d15c1.chunk.js.map": "/plaantdaddyapp/static/js/2.2b0d15c1.chunk.js.map",
+    "static/js/3.e54d7291.chunk.js": "/plaantdaddyapp/static/js/3.e54d7291.chunk.js",
+    "static/js/3.e54d7291.chunk.js.map": "/plaantdaddyapp/static/js/3.e54d7291.chunk.js.map",
+    "index.html": "/plaantdaddyapp/index.html",
+    "static/css/main.69900326.chunk.css.map": "/plaantdaddyapp/static/css/main.69900326.chunk.css.map",
+    "static/js/2.2b0d15c1.chunk.js.LICENSE.txt": "/plaantdaddyapp/static/js/2.2b0d15c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ddef00c.js",
+    "static/js/2.2b0d15c1.chunk.js",
+    "static/css/main.69900326.chunk.css",
+    "static/js/main.195045cc.chunk.js"
+  ]
+}
