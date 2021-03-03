@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/plaantdaddyapp/static/css/main.69900326.chunk.css",
-    "main.js": "/plaantdaddyapp/static/js/main.195045cc.chunk.js",
-    "main.js.map": "/plaantdaddyapp/static/js/main.195045cc.chunk.js.map",
-    "runtime-main.js": "/plaantdaddyapp/static/js/runtime-main.9ddef00c.js",
-    "runtime-main.js.map": "/plaantdaddyapp/static/js/runtime-main.9ddef00c.js.map",
-    "static/js/2.2b0d15c1.chunk.js": "/plaantdaddyapp/static/js/2.2b0d15c1.chunk.js",
-    "static/js/2.2b0d15c1.chunk.js.map": "/plaantdaddyapp/static/js/2.2b0d15c1.chunk.js.map",
-    "static/js/3.e54d7291.chunk.js": "/plaantdaddyapp/static/js/3.e54d7291.chunk.js",
-    "static/js/3.e54d7291.chunk.js.map": "/plaantdaddyapp/static/js/3.e54d7291.chunk.js.map",
-    "index.html": "/plaantdaddyapp/index.html",
-    "static/css/main.69900326.chunk.css.map": "/plaantdaddyapp/static/css/main.69900326.chunk.css.map",
-    "static/js/2.2b0d15c1.chunk.js.LICENSE.txt": "/plaantdaddyapp/static/js/2.2b0d15c1.chunk.js.LICENSE.txt"
+    "main.css": "/plantdaddyapp/static/css/main.69900326.chunk.css",
+    "main.js": "/plantdaddyapp/static/js/main.195045cc.chunk.js",
+    "main.js.map": "/plantdaddyapp/static/js/main.195045cc.chunk.js.map",
+    "runtime-main.js": "/plantdaddyapp/static/js/runtime-main.67c3bf94.js",
+    "runtime-main.js.map": "/plantdaddyapp/static/js/runtime-main.67c3bf94.js.map",
+    "static/js/2.2b0d15c1.chunk.js": "/plantdaddyapp/static/js/2.2b0d15c1.chunk.js",
+    "static/js/2.2b0d15c1.chunk.js.map": "/plantdaddyapp/static/js/2.2b0d15c1.chunk.js.map",
+    "static/js/3.e54d7291.chunk.js": "/plantdaddyapp/static/js/3.e54d7291.chunk.js",
+    "static/js/3.e54d7291.chunk.js.map": "/plantdaddyapp/static/js/3.e54d7291.chunk.js.map",
+    "index.html": "/plantdaddyapp/index.html",
+    "static/css/main.69900326.chunk.css.map": "/plantdaddyapp/static/css/main.69900326.chunk.css.map",
+    "static/js/2.2b0d15c1.chunk.js.LICENSE.txt": "/plantdaddyapp/static/js/2.2b0d15c1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9ddef00c.js",
+    "static/js/runtime-main.67c3bf94.js",
     "static/js/2.2b0d15c1.chunk.js",
     "static/css/main.69900326.chunk.css",
     "static/js/main.195045cc.chunk.js"
