@@ -1,0 +1,9 @@
+.copyright {
+    background-color: rgba(7, 26, 8, .7);
+    color: white;
+}
+
+.copyright > a {
+    color: white;
+}
+
